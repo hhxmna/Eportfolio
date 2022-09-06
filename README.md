@@ -1,2 +1,3 @@
 # Eportfolio
-Python program to analyze data using Ontario’s Covid-19 database to produce a user interface using a variety of libraries including Seaborn, Pandas, and Matplotlib.
+Java application that allows users to buy, sell, update, and analyze new or existing investments.
+Created a user friendly, interactive GUI with Swing and AWT
